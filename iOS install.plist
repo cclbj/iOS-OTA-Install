@@ -8,7 +8,7 @@
                     <key>kind</key>
                     <string>software-package</string>
                     <key>url</key>
-                    <string>http://192.168.2.229/GreatChefDev.ipa</string>
+                    <string>http://192.168.0.51/GreatChefDev.ipa</string>
                 </dict>
             </array>
             <key>metadata</key>
